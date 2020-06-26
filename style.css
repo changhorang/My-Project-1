@@ -1,0 +1,22 @@
+#information{
+  background-color: darkgrey;
+  font-size: 15px;
+  color:white;
+  font-style: normal;
+  text-align: left;
+  padding-bottom: 20px;
+}
+.topnav{
+
+  background-color:green;
+  font-size:25px;
+  color: white;
+  font-weight:bold;
+  padding: 5px;
+  text-decoration: none;
+}
+
+#index {
+  color:green;
+  text-decoration: none;
+}
